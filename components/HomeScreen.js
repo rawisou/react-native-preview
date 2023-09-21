@@ -6,7 +6,7 @@ import { WebView } from "react-native-webview";
 const HomeScreen = () => {
   return (
     <>
-      <Title>Budbee Redirect Test</Title>
+      <Title>Redirect Test</Title>
       <WebView
        javaScriptEnabled
        originWhitelist={['*']}
