@@ -1,9 +1,9 @@
 {
 	"expo": {
-		"name": "Book finder App",
-		"slug": "Your-personal-book-shopping-helper",
+		"name": "React Webview Test ENV",
+		"slug": "React-Webview-Test-ENV",
 		"privacy": "public",
-		"description": "An application that allows you to scan a book's isbn and link you to the link to buy it.",
+		"description": "React Webview Test ENV",
 		"version": "1.0.0",
 		"orientation": "portrait",
 		"icon": "./assets/icon.png",
